@@ -3,7 +3,7 @@
 ## Sommaire
 * [Informations Générales](#Informations-Générales)
 * [Installation](#Installation)
-* [Developper's Guide](#Developper's-Guide)
+* [Developper Guide](#Developper-Guide)
 
 ## Informations Générales
 
@@ -46,7 +46,7 @@ python main.py
 
 Le script de scraping, les fonctions ainsi que le dashboard vont alors s'éxécuter. Lorsque le programme aura terminer de scraper, traiter les donnnées et construire le dashboard, vous pourrez vous rendre à l'addresse suivante: http://127.0.0.1:3000/ afin d'ouvrir le dashBoard.
 
-## Developper's Guide
+## Developper Guide
 
 ### Architecture globale
 
