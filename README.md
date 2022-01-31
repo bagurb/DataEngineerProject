@@ -31,7 +31,7 @@ Ce qui peut attirer ou non de futurs entrepreneurs.
 
 L’actualité boursière est un milieu dense et complexe, c’est pour cela que notre solution permet d'affiner nos recherches et de se concentrer sur les éléments primordiaux.
 
-## Installation
+## Installation et Utilisation
 
 Pour que le programme fonctionne vous devez éxécuter dans un terminal la commande suivante afin d'importer les packages:
 
@@ -45,6 +45,8 @@ python main.py
 ```
 
 Le script de scraping, les fonctions ainsi que le dashboard vont alors s'éxécuter. Lorsque le programme aura terminer de scraper, traiter les donnnées et construire le dashboard, vous pourrez vous rendre à l'addresse suivante: http://127.0.0.1:3000/ afin d'ouvrir le dashBoard.
+
+Une fois sur le dashboard, vous arriverez sur la page d'accueil avec un premier volet d'information. Il vous suffit de cliquer sur les différents champs dans le Menu à gauche afin de changer de page.
 
 ## Developper Guide
 
